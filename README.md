@@ -6,13 +6,13 @@ Simple facial recognition system based on the photos included in the `labels` fo
 
 #### Project was built using **VanillaJS** and the following dependencies:
 
-- **HTML** or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
+- **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
-- **CSS** or Cascading Style Sheets is a mechanism for adding style to a web document.
+- **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
 
-- **VanillaJS** is a ‎‎name to refer to using simple JavaScript without additional libraries these days‎‎. People use this as a joke to remind other developers that many things can be done these days without the need for additional JavaScript libraries.
+- **VanillaJS** - Is a name to refer to using simple JavaScript without additional libraries these days‎‎. People use this as a joke to remind other developers that many things can be done these days without the need for additional JavaScript libraries.
 
-- **[Face API](https://github.com/justadudewhohacks/face-api.js/)** JavaScript face recognition API for use in browser and/or embedded with [Node.js](https ://nodejs.org) implemented in the core [Tensorflow.js](https://www.tensorflow.org/).
+- **[Face API](https://github.com/justadudewhohacks/face-api.js/)** - JavaScript face recognition API for use in browser and/or embedded with [Node.js](https ://nodejs.org) implemented in the core [Tensorflow.js](https://www.tensorflow.org/).
 
 ## 🔨 Local Installation
 
