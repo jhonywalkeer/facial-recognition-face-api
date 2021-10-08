@@ -19,7 +19,7 @@ Simple facial recognition system based on the photos included in the `labels` fo
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
-git clone https://github.com/JhonyWalker-pixel/reconhecimento-facial-face-api.git
+git clone https://github.com/jhonywalkeer/reconhecimento-facial-face-api.git
 
 $ cd reconhecimento-facial-face-api
 $ code .
